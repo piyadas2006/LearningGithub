@@ -1,3 +1,3 @@
 This is a markdown file.
 
-Thi sis the second line.
+This is the second line.
