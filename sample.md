@@ -8,3 +8,5 @@ This line is added for the pull request test.
 
 I mean it.
 
+Line added for merge test without conflict.
+
