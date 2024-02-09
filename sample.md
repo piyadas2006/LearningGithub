@@ -6,5 +6,5 @@ The third line is for the master.
 
 This line is added for the pull request test.
 
-I mean it.
+I mean it. Added this for no-conflict merge test.
 
