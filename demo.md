@@ -10,3 +10,5 @@ Adding a different line in remote to test merging.
 I was working on this file but its incomplete.
 
 This change is to test Pull Request.
+
+This is for the conflict-test branch.
